@@ -13,5 +13,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangs-official)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangs-official)](https://github.com/wangs-official/github-readme-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/wangs-official/count.svg)
