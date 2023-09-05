@@ -6,8 +6,6 @@
   1. Send an e-mail to wangsofficial@outlook.com
   2. Add my QQ: 1480357968
   3. Find me in my QQ fan group: 784694469
- 
-![mybilibili](https://stats.justsong.cn/api/bilibili/?id=2128949940)
 
 - 😄 Have a nice day~
 
