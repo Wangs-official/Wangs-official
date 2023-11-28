@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Wangs-official
+## 👋 Hi, I’m @Wangs-official（WangZixu）
 - 👀 I am interested in Python,Html,CSS,Javascript,VirtualSinger,VOCALOID,Music
 - 🌱 I'm currently learning Javascript and Python at a high level
 - 💞️ You can work with me, but I'm a pigeon and I don't know anything~
