@@ -1,18 +1,17 @@
 > 本人所有与编程猫相关的项目均已迁移至 https://github.com/CodemaoCommunityHistory
 
-## 👋 Hi, I’m @Wangs-official（WangZixu）
-- 👀 I am interested in Python,Html,CSS,Javascript,VirtualSinger,VOCALOID,Music
-- 🌱 I'm currently learning Javascript and Python at a high level
-- 💞️ You can work with me, but I'm a pigeon and I don't know anything~
-- 🕹 I like playing Minecraft,Genshin Impact,Kairosoft Game
-- 📫 How to reach me ?
-  1. Send an e-mail to wangsofficial@outlook.com
-  2. Add my QQ: 1480357968
-  3. Go my Bilibili：https://space.bilibili.com/2128949940
+# WangZixu (Wangs_official)
+~~与其匿名上网，不如实名上网，不装了，我就是王梓旭！~~
 
-- 😄 Have a nice day~
+准高一,现居辽宁沈阳,重度抑郁+双相 🤔
 
-**I LOVE PYTHON!!!**
+会Python,Html,剩下不会几个了,都是用ChatGPT解决问题 😭
+
+联系我可以加QQ 1480357968 ,我的粉丝群是784694469 👍🏻
+
+玩原神,崩铁,Minecraft,开罗游戏,剩下不爱玩了 😄
+
+在搞 ideaWrite 💻
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangs-official)
 
