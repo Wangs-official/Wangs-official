@@ -2,19 +2,21 @@
 
 ### (*´▽｀)ノ Hello! I'am WangZixu_旭 (Wangs_official)! 👋
 
-**A developer from Shenyang, Liaoning, China, currently studying network security | 来自于辽宁沈阳的开发者，目前正在学习网络安全专业**
+[🇺🇸 English](https://github.com/Wangs-official/Wangs-official/README.en.md)
 
-Personal studio: [MewBaka](https://github.com/MewBaka) | 个人工作室：[MewBaka](https://github.com/MewBaka)
+**来自于辽宁沈阳的开发者，目前正在学习网络安全专业**
+
+个人工作室：[MewBaka](https://github.com/MewBaka)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangs-official&show_icons=true)
 
-- ⚙️ Language in use | 正在使用的语言 : `Python`,`HTML`,`CSS`
+正在使用的语言 : `Python`,`HTML`,`CSS`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangs-official&layout=compact)
 
-- 🌏 How to contact me | 联系我的方式 : `QQ: 1480357968`,`Discord: wangzixu2009`,`Email: wangsofficial@outlook.com`
-- ✍🏻 Other hobbies | 其他的爱好 : `Writing|写作`,`Music production|音乐制作`,`UI Design|UI设计`
-- 💻 Play games | 玩的游戏 : `Mincraft`,`Undertale`,`Blue Archive`,`Genshin Impact`,`Genshin Impact`,`Honkai: Star Rail`,`Muse Dash`,`PUBG`,`Memories Of The Winter Tree`,`Love Yuri`,`Strinova`
+- 🌏 联系我的方式 : `QQ: 1480357968`,`Discord: wangzixu2009`,`Email: wangsofficial@outlook.com`
+- ✍🏻 其他的爱好 : `Writing|写作`,`Music production|音乐制作`,`UI Design|UI设计`
+- 💻 玩的游戏 : `Mincraft`,`Undertale`,`Blue Archive`,`Genshin Impact`,`Genshin Impact`,`Honkai: Star Rail`,`Muse Dash`,`PUBG`,`Memories Of The Winter Tree`,`Love Yuri`,`Strinova`，`Hoare`，`VALORANT`
 
 ___
 
