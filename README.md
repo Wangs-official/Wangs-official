@@ -1,8 +1,10 @@
 <img src="https://s3.bmp.ovh/imgs/2024/10/25/7cd326afa68c3c6a.png" width="162" height="213.2" alt="言叶大魔王">
 
-### (*´▽｀)ノ Hello! I'am WangZixu_旭 (Wangs_official)! 👋
+### (*´▽｀)ノ 早安！咱是 WangZixu_旭 (Wangs_official)! 👋
 
-[🇺🇸 English](https://github.com/Wangs-official/Wangs-official/README.en.md)
+#### 诶？不是早上吗（小声）
+
+[🇺🇸 English](https://github.com/Wangs-official/Wangs-official/blob/main/README.en.md)
 
 **来自于辽宁沈阳的开发者，目前正在学习网络安全专业**
 
