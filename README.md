@@ -2,17 +2,15 @@
 
 ### (*´▽｀)ノ Hello！这里是 WangZixu_旭 (Wangs_official)! 👋
 
-**来自于辽宁沈阳的开发者，目前正在学习网络安全专业**
+**来自于辽宁沈阳的开发者，在MewBaka工作室从事剧情编写工作，也会做一点开发**
 
 个人工作室：[MewBaka](https://github.com/MewBaka)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangs-official&show_icons=true)
 
-正在使用的语言 : `Python`,`HTML`,`CSS`
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangs-official&layout=compact)
 
-- 🌏 联系我的方式 : `QQ: 1480357968`,`Discord: wangzixu2009`,`Email: wangsofficial@outlook.com`,`Email2: wangzixu@mewbaka.cn`
+- 🌏 联系我的方式 : `QQ: 1480357968` `Telegram: @WangZixu_Official` `Personal Email: wangsofficial@outlook.com` `Work Email: wangzixu@mewbaka.cn`
 - 🌲 最喜欢冬日树和言叶了
 
 ___
