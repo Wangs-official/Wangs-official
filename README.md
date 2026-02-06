@@ -2,7 +2,7 @@
   <img src="https://s3.bmp.ovh/imgs/2024/10/25/7cd326afa68c3c6a.png" height="140" alt="言叶大魔王">
   <h3>(*´▽｀)ノ Hello！这里是 WangZixu_旭 (Wangs_official)! 👋</h3>
   <b>来自于辽宁沈阳，在MewBaka工作室从事剧情编写工作，也稍微会一点开发</b>
-  <p>双面不粘锅，主厨言叶&小忆</p>
+  <p>双面不粘锅，主推言叶&小忆</p>
   <a href="https://github.com/Wangs-official"><img src="https://img.shields.io/badge/GitHub-WangsOfficial-3d3d3d?style=flat-square&logo=github"></a>
   <a href="https://github.com/mewbaka"><img src="https://img.shields.io/badge/个人工作室-MewBaka笨猫-3d3d3d?style=flat-square"></a>
   <a href="https://space.bilibili.com/2128949940"><img src="https://img.shields.io/badge/BiliBili-WangZixu_旭-3d3d3d?style=flat-square&logo=bilibili"></a>
