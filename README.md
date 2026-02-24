@@ -6,6 +6,7 @@
   <a href="https://github.com/Wangs-official"><img src="https://img.shields.io/badge/GitHub-WangsOfficial-3d3d3d?style=flat-square&logo=github"></a>
   <a href="https://github.com/mewbaka"><img src="https://img.shields.io/badge/个人工作室-MewBaka笨猫-3d3d3d?style=flat-square"></a>
   <a href="https://space.bilibili.com/2128949940"><img src="https://img.shields.io/badge/BiliBili-WangZixu_旭-3d3d3d?style=flat-square&logo=bilibili"></a>
+  <a href="https://wakatime.com/@d10d6db7-c693-43cd-a70a-3d5c889469a7"><img src="https://wakatime.com/badge/user/d10d6db7-c693-43cd-a70a-3d5c889469a7.svg?style=flat-square" alt="Total time coded since Feb 23 2026" /></a>
   <img src="https://img.shields.io/badge/-Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-macOS-3572a5?style=flat-square&logo=apple&logoColor=white">
   <br><br>
