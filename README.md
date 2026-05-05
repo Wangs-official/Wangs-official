@@ -39,16 +39,9 @@
     </td>
     <td width="50%">
       <div align="center">
-        <i>秋日告别了落叶</i><br>
-        <i>冬日告别了梦中灿烂如画的夕阳</i><br>
-        <i>未来的某个冬夜</i><br>
-        <i>我们终将告别离别</i><br>
-        <i>童话说 天空是清澈的远方</i><br>
-        <i>天使会给孩子们实现愿望</i><br>
-        <i>最后的礼物名叫希望</i><br>
+<a href="http://bgm.tv/user/wangzixu"><img src="http://bgm.tv/chart/img/1216506" border="0" alt="WangZixu_旭 的个人主页" /></a>
       </div>
     </td>
   </tr>
 </table>
-
 </div>
