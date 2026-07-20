@@ -30,7 +30,7 @@
     <td width="50%">
       <h4 align="center">联系我的方式</h4>
       <ul>
-        <li>QQ: 1480357968</li>
+        <li>QQ: 1480357968（请通过跳板234780279添加）</li>
         <li>Telegram: @WangZixu_Official</li>
         <li>个人邮箱: wangsofficial@outlook.com</li>
         <li>工作邮箱: wangzixu@mewbaka.cn</li>
