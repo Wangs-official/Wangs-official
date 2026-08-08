@@ -19,7 +19,7 @@
            loading="lazy" />
     </td>
     <td width="50%">
-      <img src="https://github-streak-stats-ruby.vercel.app/?user=Wangs-official&theme=default&hide_border=true&border_radius=4.5&locale=zh_Hans&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
+      <img src="https://streak-stats.demolab.com/?user=Wangs-official&theme=default&hide_border=true&border_radius=4.5&locale=zh_Hans&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
            alt="GitHub Streak de Wangs-official"
            width="466"
            height="194"
