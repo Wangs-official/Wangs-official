@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://s3.bmp.ovh/imgs/2024/10/25/7cd326afa68c3c6a.png" height="140" alt="言叶大魔王">
+  <img src="https://s3.bmp.ovh/2026/08/25/izhM02YB.png" alt="[冬日树下_笑]_srcnn_anime_noise0_512x512_fit.png" height="100" />
+  <img src="https://s3.bmp.ovh/2026/08/25/PnF7dwZg.png" alt="[冬日树下_爱心]_srcnn_anime_noise0_512x512_fit.png" height="100" />
+  <img src="https://s3.bmp.ovh/2026/08/25/sJKgSi1n.png" alt="[冬日树下_害羞]_srcnn_anime_noise0_512x512_fit.png" height="100" />
+  <img src="https://s3.bmp.ovh/2026/08/25/i9DWrENG.png" alt="[冬日树下_警觉]_srcnn_anime_noise0_512x512_fit.png" height="100" />
+  <img src="https://s3.bmp.ovh/2026/08/25/N6LRC4wJ.png" alt="[冬日树下_思考]_srcnn_anime_noise0_512x512_fit.png" height="100" />
+  <img src="https://s3.bmp.ovh/imgs/2024/10/25/7cd326afa68c3c6a.png" height="100" alt="言叶大魔王">
   <h3>(*´▽｀)ノ Hello！这里是 WangZixu_旭 (Wangs_official)! 👋</h3>
   <b>来自于辽宁沈阳，在MewBaka工作室</b>
   <p>双面不粘锅，主推言叶&小忆</p>
@@ -10,38 +15,14 @@
   <img src="https://img.shields.io/badge/-Python-3572a5?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-macOS-3572a5?style=flat-square&logo=apple&logoColor=white">
   <br><br>
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://helio-github-stats.vercel.app/api?username=Wangs-official&custom_title=WangZixu%E7%9A%84GitHub%E7%8A%B6%E6%80%81&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short"
-           alt="WangZixu的GitHub状态"
-           width="466"
-           loading="lazy" />
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Wangs-official&theme=default&hide_border=true&border_radius=4.5&locale=zh_Hans&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"
-           alt="GitHub Streak de Wangs-official"
-           width="466"
-           height="194"
-           loading="lazy" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">联系我的方式</h4>
-      <ul>
-        <li>QQ: 1480357968（请通过跳板234780279添加）</li>
-        <li>Telegram: @WangZixu_Official</li>
-        <li>个人邮箱: wangsofficial@outlook.com</li>
-        <li>工作邮箱: wangzixu@mewbaka.cn</li>
-      </ul>
-      <br>
-    </td>
-    <td width="50%">
-      <div align="center">
-<a href="http://bgm.tv/user/wangzixu"><img src="http://bgm.tv/chart/img/1216506" border="0" alt="WangZixu_旭 的个人主页" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
 </div>
+  
+<img src="https://githubcard.com/wangs-official.svg?d=CJidgLbSoRD8">
+
+<a href="http://bgm.tv/user/wangzixu"><img src="http://bgm.tv/chart/img/1216506" border="0" alt="WangZixu_旭 的个人主页" width=100% />
+
+## 联系我的方式
+- QQ: 1480357968（请通过跳板234780279添加）
+- Telegram: @WangZixu_Official
+- 个人邮箱: wangsofficial@outlook.com
+- 工作邮箱: wangzixu@mewbaka.cn
