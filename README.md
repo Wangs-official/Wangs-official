@@ -20,14 +20,22 @@
 <img src="https://githubcard.com/wangs-official.svg?d=CJidgLbSoRD8">
 
 <div align="center">
-<img src="http://bgm.tv/chart/img/1216506" width="300" align="left" style="margin-right: 30px;" />
+
+<img src="http://bgm.tv/chart/img/1216506" width="300" align="left" style="max-width: 40%; height: auto; margin-right: 30px;" />
+
 <div align="left">
+
 <h2>联系我的方式</h2>
+
 <b>QQ: 1480357968（请通过跳板234780279添加）</b><br>
-<b>Telegram: @WangZixu_Official</b><br><br><br>
+<b>Telegram: @WangZixu_Official</b><br><br>
+
 <b>个人邮箱: wangsofficial@outlook.com</b><br>
 <b>工作邮箱: wangzixu@mewbaka.cn</b>
+
 </div>
+
 </div>
+
 <br clear="left"/>
 <br clear="left"/>
