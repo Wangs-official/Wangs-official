@@ -19,10 +19,15 @@
   
 <img src="https://githubcard.com/wangs-official.svg?d=CJidgLbSoRD8">
 
-<a href="http://bgm.tv/user/wangzixu"><img src="http://bgm.tv/chart/img/1216506" border="0" alt="WangZixu_旭 的个人主页" width=100% />
-
-## 联系我的方式
-- QQ: 1480357968（请通过跳板234780279添加）
-- Telegram: @WangZixu_Official
-- 个人邮箱: wangsofficial@outlook.com
-- 工作邮箱: wangzixu@mewbaka.cn
+<div align="center">
+<img src="http://bgm.tv/chart/img/1216506" width="300" align="left" style="margin-right: 30px;" />
+<div align="left">
+<h2>联系我的方式</h2>
+<b>QQ: 1480357968（请通过跳板234780279添加）</b><br>
+<b>Telegram: @WangZixu_Official</b><br><br><br>
+<b>个人邮箱: wangsofficial@outlook.com</b><br>
+<b>工作邮箱: wangzixu@mewbaka.cn</b>
+</div>
+</div>
+<br clear="left"/>
+<br clear="left"/>
